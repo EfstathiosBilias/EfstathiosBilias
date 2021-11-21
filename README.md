@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning ...
   - C++
-  - Javascript (especially discord.js)
 - 💬 Ask me about ...
   - Music
   - Movies
