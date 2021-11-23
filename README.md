@@ -13,6 +13,7 @@ Skills: C++
 
 ![Profile views](https://gpvc.arturio.dev/EfstathiosBilias)  
 
-[![Spotify](https://efstathiosbilias.vercel.app/api/spotify)](https://open.spotify.com/user/65teupfdxcz7or2egf2b3066u)
+### Spotify Playing
+[<img src="https://novatorem-silk-nine.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/65teupfdxcz7or2egf2b3066u)
 
 Also, I am married to [@Konstantinos-Stavliotis](https://github.com/Konstantinos-Stavliotis)
