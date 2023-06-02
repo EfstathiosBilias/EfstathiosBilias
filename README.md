@@ -2,7 +2,7 @@
 
 ### ➼ Development
 
-**Skills:** C++ | HTML | Latex
+**Skills:** | Bash | Git | HTML | Latex | C++ |
 
 ### ➼ Social Media
 
