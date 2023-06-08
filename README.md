@@ -10,8 +10,4 @@
 
 ### ➼ Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EfstathiosBilias&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/EfstathiosBilias)  
-
-![Profile views](https://gpvc.arturio.dev/EfstathiosBilias)
+![GitHub metrics](https://metrics.lecoq.io/EfstathiosBilias)
