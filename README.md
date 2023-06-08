@@ -1,13 +1,26 @@
-## Hi there 👋, Efstathios Bilias
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://giphy.com/)
+<h1 align="center">Hi 👋, I'm Efstathios Bilias</h1>
+<h3 align="center">A passionate developer from Greece</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif">
 
-### ➼ Development
+- 🌱 I’m currently learning **Python**
 
-**Skills:** | Bash | Git | HTML | Latex | C++ | C# |
+- 💬 Ask me about **Latex, Bash**
 
-### ➼ Social Media
+- ⚡ Fun fact **I don't like people**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EfstathiosBilias)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/stathisbilias28)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/stathisbilias/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/908784206795128903/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/65teupfdxcz7or2egf2b3066u?si=dae864d5b23a49d6)  
+<!-- Social Media -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/stathisbilias28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stathisbilias28" height="30" width="40" /></a>
+<a href="https://instagram.com/stathisbilias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stathisbilias" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/908784206795128903/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Efstathios Bilias#7456" height="40" width="50" /></a>
+<a href="https://open.spotify.com/user/65teupfdxcz7or2egf2b3066u?si=dae864d5b23a49d6" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/05/Spotify-PNG-Logo-1536x1534.png" alt="spotify" height="33" width="33" /></a>
+</p>
 
-### ➼ Statistics
+<!-- Languages and Tools -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<!-- Latex -->
 
 ![GitHub metrics](https://metrics.lecoq.io/EfstathiosBilias)
