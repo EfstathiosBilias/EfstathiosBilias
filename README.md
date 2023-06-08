@@ -11,5 +11,3 @@
 ### ➼ Statistics
 
 ![GitHub metrics](https://metrics.lecoq.io/EfstathiosBilias)
-
-<!-- Nothing Important Here. Just a comment. Really. That's it... -->
