@@ -18,7 +18,7 @@ int main() {
 }
 ```
 
-<img align="right" alt="Coding" width="450" src="https://media.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif">
+<img align="right" alt="Coding" width="425" src="https://media.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif">
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
