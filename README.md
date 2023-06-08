@@ -1,7 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://giphy.com/)
 <h1 align="center">Hi 👋, I'm Efstathios Bilias</h1>
 <h3 align="center">A passionate developer from Greece</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif">
 
 ```c++
 #include <iostream>
@@ -18,6 +17,8 @@ int main() {
   return 0;
 }
 ```
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif">
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
