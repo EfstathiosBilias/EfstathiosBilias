@@ -1,13 +1,23 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://giphy.com/)
 <h1 align="center">Hi 👋, I'm Efstathios Bilias</h1>
 <h3 align="center">A passionate developer from Greece</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif">
+<img align="right" alt="Coding" width="378" src="https://media.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif">
 
-- 🌱 I’m currently learning **Python**
+```c++
+#include <iostream>
+using namespace std;
 
-- 💬 Ask me about **Latex, Bash**
+int main() {
 
-- ⚡ Fun fact **I don't like people**
+  cout<<"🌱 I’m currently learning Python"<<endl;
+  
+  cout<<"💬 Ask me about Latex, Bash"<<endl;
+  
+  cout<<"⚡ Fun fact I don't like people"<<endl;
+
+  return 0;
+}
+```
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
