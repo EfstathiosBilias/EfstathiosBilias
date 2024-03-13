@@ -45,4 +45,4 @@ int main() {
 </p>
 <!-- Latex -->
 
-![GitHub metrics]([https://metrics.lecoq.io/EfstathiosBilias](https://metrics.lecoq.io/insights/EfstathiosBilias))
+![GitHub metrics]([https://metrics.lecoq.io/insights/EfstathiosBilias](https://metrics.lecoq.io/insights/EfstathiosBilias))
