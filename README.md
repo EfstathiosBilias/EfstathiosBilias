@@ -26,7 +26,7 @@ int main() {
 <a href="https://fb.com/stathisbilias28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stathisbilias28" height="30" width="40" /></a>
 <a href="https://instagram.com/stathisbilias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stathisbilias" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/908784206795128903/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Efstathios Bilias#7456" height="40" width="50" /></a>
-<a href="https://open.spotify.com/user/65teupfdxcz7or2egf2b3066u?si=dae864d5b23a49d6" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/05/Spotify-PNG-Logo-1536x1534.png" alt="spotify" height="33" width="33" /></a>
+<a href="https://open.spotify.com/user/65teupfdxcz7or2egf2b3066u?si=dae864d5b23a49d6" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngplay.com%2Fwp-content%2Fuploads%2F12%2FSpotify-Logo-Transparent-Images.png&f=1&nofb=1&ipt=29889ebd65b1119ed5b6047ebde52b7a8e6386ef35990d194fb0c0ca591569c3&ipo=images" alt="spotify" height="33" width="33" /></a>
 </p>
 
 <!-- Languages and Tools -->
