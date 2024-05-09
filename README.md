@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](https://giphy.com/)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]()
 <h1 align="center">Hi 👋, I'm Efstathios Bilias</h1>
 <h3 align="center">A passionate developer from Greece</h3>
 
