@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 
-  cout<<"🌱 I’m currently learning SML"<<endl;
+  cout<<"🌱 I’m currently learning Computer Networking"<<endl;
   
   cout<<"💬 Ask me about Latex, Bash"<<endl;
   
