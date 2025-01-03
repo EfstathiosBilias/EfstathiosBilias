@@ -10,7 +10,7 @@ int main() {
 
   cout<<"🌱 I’m currently learning Computer Networking"<<endl;
   
-  cout<<"💬 Ask me about Latex, Bash"<<endl;
+  cout<<"💬 Ask me about Music"<<endl;
   
   cout<<"⚡ Fun fact I don't like people"<<endl;
 
